@@ -1,2 +1,2 @@
 # TwitterNLP
-Classification Model
+Sentiment Analysis for Beginner
